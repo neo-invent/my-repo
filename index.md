@@ -49,3 +49,8 @@ Pylint est un logiciel en ligne de commande qui analyse le code en fonction des 
 ## Documentation strings (Docstrings) obligatoires
 
 ## Imports
+
+```python
+def foo():
+   # ...
+```
